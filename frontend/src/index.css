@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+
+/* Custom spinner animation */
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
